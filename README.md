@@ -1,6 +1,6 @@
 # BetterVision
 
-BetterVision is a a Chrome extension that aims to make the IOVision experience a little more user friendly.
+BetterVision is a Chrome extension that aims to make the IOVision experience a little more user friendly.
 
 ## Objectives
 
